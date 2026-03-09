@@ -44,7 +44,7 @@ A visually stunning scroll-driven hero section animation built with **Next.js**,
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/car-scroll-animation.git
+[git clone https://github.com/your-username/car-scroll-animation.git](https://github.com/PERUGUMANOJ/Scroll-Driven-Hero-Section-Animation.git)
 
 # Navigate into the project directory
 cd car-scroll-animation
